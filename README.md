@@ -6,7 +6,7 @@
 ▸ **Web Test**   
 As shown below, the **`EasylistChina`** filter will be detected by _[browserleaks.com](https://www.browserleaks.com/proxy)_ if the subscription is successful.  
 
-![EffectCheck](https://ghproxy.com/https://raw.githubusercontent.com/Lky777/resources/main/bromite/effectCheck1.jpg "Effect of Detection")  
+![EffectCheck](https://hub.fastgit.org/Lky777/resources/blob/main/bromite/effectCheck1.jpg "Effect of Detection")  
 ___
 ▸ Sources  
 •[EasyList](https://www.easylist.to/)  
